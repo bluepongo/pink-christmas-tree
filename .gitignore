@@ -7,3 +7,5 @@ dist/
 .DS_Store
 *.exe
 PinkChristmasTree-win64/
+*.exe
+PinkChristmasTree-win64/
