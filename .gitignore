@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+preview*.png
+build/
+dist/
+*.spec
+.DS_Store
