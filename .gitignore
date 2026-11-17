@@ -5,3 +5,5 @@ build/
 dist/
 *.spec
 .DS_Store
+*.exe
+PinkChristmasTree-win64/
